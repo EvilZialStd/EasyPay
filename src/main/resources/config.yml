@@ -1,0 +1,11 @@
+starting-balance: 100
+
+messages:
+  players-only: "Only players can use this command."
+  balance: "Balance: {balance}"
+  pay-usage: "Usage: /pay <player> <amount>"
+  player-offline: "That player is offline. You can't send coins right now."
+  invalid-amount: "Did you type that right?"
+  sent: "You sent that {player} {amount} coins."
+  received: "{player} sent you {amount} coins."
+  insufficient-funds: "You don't have enough money for that. Your balance: {balance}"

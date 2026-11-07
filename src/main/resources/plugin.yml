@@ -1,5 +1,5 @@
 name: EasyPay
-version: 1.0.0
+version: 1.0.1
 
 main: me.evilzialstd.easyPay.EasyPay
 api-version: '1.21'
